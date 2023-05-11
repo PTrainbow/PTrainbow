@@ -2,7 +2,7 @@
 
 #### I'm 🐒, maybe a Full-Stack Developer based in Beijing.
 
-- 👨‍🦳  5 years of work
+- 👨‍🦳  n years of work
 - ☯️   Interested in《易经》
 - 📚  Java/Kotlin/Go/JavaScript/C++/Rust/Python
 
